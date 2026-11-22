@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="DbDemo.AdoNet/DbDemo.AdoNet.csproj" />
+  <Project Path="DbDemo.EfCore/DbDemo.EfCore.csproj" />
+  <Project Path="DbDemo.Dapper/DbDemo.Dapper.csproj" />
+  <Project Path="DbDemo.Migrations/DbDemo.Migrations.csproj" />
+  <Project Path="DbDemo.DbUp/DbDemo.DbUp.csproj" />
+  <Project Path="DbDemo.IntegrationTests/DbDemo.IntegrationTests.csproj" />
+</Solution>
